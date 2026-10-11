@@ -37,6 +37,8 @@ Breadboard power
 2. Open the .ino file in the Arduino IDE
 3. Select your board and port, then upload
 4. Press the button and enjoy the melody
+* If the IDE asks to create a folder for the sketch, click OK.
+
 
 ## Customize
 - BPM: playback speed.
